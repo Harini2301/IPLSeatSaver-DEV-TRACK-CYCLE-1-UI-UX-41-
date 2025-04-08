@@ -5,7 +5,7 @@ matches, players, teams, and statistics. It will simplify the
 process of accessing comprehensive data and updates in
 real-time.
 
-TECH STACK: We have designed  using the UI/UXFigmaplatform to create
+TECH STACK: We have designed  using the UI/UX Figma platform to create
 this application. We have enhanced the user experience.
 
 ESSENTIAL ELEMENTS OF OUR TICKET BOOKING PLATFORM:
